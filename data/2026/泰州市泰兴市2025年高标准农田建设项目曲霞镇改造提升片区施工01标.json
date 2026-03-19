@@ -1,0 +1,21 @@
+{
+  "orders": [
+    {
+      "order": "Q202601080012",
+      "project": "泰州市泰兴市2025年高标准农田建设项目曲霞镇改造提升片区施工01标",
+      "contract": "",
+      "payment": "",
+      "has_agent": "否",
+      "invoice_unit": "",
+      "invoice_unit2": "",
+      "times": 1,
+      "car_volume": 24.192,
+      "total_volume": 24.192,
+      "price": 0,
+      "car_amount": 0,
+      "total_project_amount": 0,
+      "paid": 0,
+      "unpaid": 0
+    }
+  ]
+}

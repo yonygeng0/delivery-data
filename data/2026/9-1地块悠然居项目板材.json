@@ -1,0 +1,55 @@
+{
+  "orders": [
+    {
+      "order": "B202603040001",
+      "project": "9-1地块悠然居项目板材",
+      "contract": "",
+      "payment": "",
+      "has_agent": "否",
+      "invoice_unit": "",
+      "invoice_unit2": "",
+      "times": 1,
+      "car_volume": 25.708,
+      "total_volume": 25.708,
+      "price": 290.0,
+      "car_amount": 7455.204,
+      "total_project_amount": 7455.204,
+      "paid": 0,
+      "unpaid": 7455.204
+    },
+    {
+      "order": "B202603100001",
+      "project": "9-1地块悠然居项目板材",
+      "contract": "",
+      "payment": "",
+      "has_agent": "否",
+      "invoice_unit": "",
+      "invoice_unit2": "",
+      "times": 2,
+      "car_volume": 24.642,
+      "total_volume": 50.35,
+      "price": 290.0,
+      "car_amount": 7146.18,
+      "total_project_amount": 14601.384,
+      "paid": 0,
+      "unpaid": 14601.384
+    },
+    {
+      "order": "B202603120003",
+      "project": "9-1地块悠然居项目板材",
+      "contract": "",
+      "payment": "",
+      "has_agent": "否",
+      "invoice_unit": "",
+      "invoice_unit2": "",
+      "times": 3,
+      "car_volume": 24.696,
+      "total_volume": 75.046,
+      "price": 279.0,
+      "car_amount": 6890.184,
+      "total_project_amount": 21491.568,
+      "paid": 0,
+      "unpaid": 21491.568
+    }
+  ]
+}

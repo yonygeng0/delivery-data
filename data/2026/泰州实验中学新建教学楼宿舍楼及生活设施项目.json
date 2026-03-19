@@ -1,0 +1,21 @@
+{
+  "orders": [
+    {
+      "order": "B202603120002",
+      "project": "泰州实验中学新建教学楼宿舍楼及生活设施项目",
+      "contract": "",
+      "payment": "",
+      "has_agent": "否",
+      "invoice_unit": "",
+      "invoice_unit2": "",
+      "times": 1,
+      "car_volume": 24.667,
+      "total_volume": 24.667,
+      "price": 279.0,
+      "car_amount": 6882.1488,
+      "total_project_amount": 6882.1488,
+      "paid": 0,
+      "unpaid": 6882.1488
+    }
+  ]
+}
