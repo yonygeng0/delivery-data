@@ -594,6 +594,23 @@
       "total_project_amount": 32503.68,
       "paid": 0,
       "unpaid": 32503.68
+    },
+    {
+      "order": "Q202603180001",
+      "project": "金茂和府",
+      "contract": "JTJCXS-2025-091",
+      "payment": "款到发货",
+      "has_agent": "否",
+      "invoice_unit": "靖江大华置业有限公司",
+      "invoice_unit2": "靖江南之鑫建设有限公司",
+      "times": 36,
+      "car_volume": 20.736,
+      "total_volume": 1389.312,
+      "price": 180.0,
+      "car_amount": 3732.48,
+      "total_project_amount": 36236.16,
+      "paid": 0,
+      "unpaid": 36236.16
     }
   ]
 }
