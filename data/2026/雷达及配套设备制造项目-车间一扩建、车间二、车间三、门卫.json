@@ -33,6 +33,23 @@
       "total_project_amount": 18247.68,
       "paid": 0,
       "unpaid": 18247.68
+    },
+    {
+      "order": "Q202603190010",
+      "project": "雷达及配套设备制造项目-车间一扩建、车间二、车间三、门卫",
+      "contract": "",
+      "payment": "",
+      "has_agent": "否",
+      "invoice_unit": "泰兴市新兴建筑工程有限公司",
+      "invoice_unit2": "",
+      "times": 3,
+      "car_volume": 41.472,
+      "total_volume": 124.416,
+      "price": 220.0,
+      "car_amount": 9123.84,
+      "total_project_amount": 27371.52,
+      "paid": 0,
+      "unpaid": 27371.52
     }
   ]
 }
