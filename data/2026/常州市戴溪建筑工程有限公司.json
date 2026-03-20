@@ -118,6 +118,23 @@
       "total_project_amount": 9483.264,
       "paid": 42015.34,
       "unpaid": -32532.075999999997
+    },
+    {
+      "order": "Q202603190006",
+      "project": "常州市戴溪建筑工程有限公司",
+      "contract": "JTJCXS-2025-085",
+      "payment": "款到发货",
+      "has_agent": "否",
+      "invoice_unit": "常州市戴溪建筑工程有限公司泰兴分公司",
+      "invoice_unit2": "",
+      "times": 8,
+      "car_volume": 24.192,
+      "total_volume": 193.536,
+      "price": 196.0,
+      "car_amount": 4741.632,
+      "total_project_amount": 14224.896,
+      "paid": 42015.34,
+      "unpaid": -27790.443999999996
     }
   ]
 }
