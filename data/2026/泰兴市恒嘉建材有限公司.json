@@ -11,10 +11,10 @@
       "times": 1,
       "car_volume": 44.928,
       "total_volume": 44.928,
-      "price": 138.0,
+      "price": "138",
       "car_amount": 6200.064,
       "total_project_amount": 6200.064,
-      "paid": 0,
+      "paid": 0.0,
       "unpaid": 6200.064
     },
     {
@@ -28,10 +28,10 @@
       "times": 2,
       "car_volume": 44.928,
       "total_volume": 89.856,
-      "price": 138.0,
+      "price": "138",
       "car_amount": 6200.064,
       "total_project_amount": 12400.128,
-      "paid": 0,
+      "paid": 0.0,
       "unpaid": 12400.128
     },
     {
@@ -45,10 +45,10 @@
       "times": 3,
       "car_volume": 44.928,
       "total_volume": 134.784,
-      "price": 138.0,
+      "price": "138",
       "car_amount": 6200.064,
       "total_project_amount": 18600.192,
-      "paid": 0,
+      "paid": 0.0,
       "unpaid": 18600.192
     },
     {
@@ -62,10 +62,10 @@
       "times": 4,
       "car_volume": 44.928,
       "total_volume": 179.712,
-      "price": 138.0,
+      "price": "138",
       "car_amount": 6200.064,
       "total_project_amount": 24800.256,
-      "paid": 0,
+      "paid": 0.0,
       "unpaid": 24800.256
     },
     {
@@ -79,10 +79,10 @@
       "times": 5,
       "car_volume": 44.928,
       "total_volume": 224.64,
-      "price": 138.0,
+      "price": "138",
       "car_amount": 6200.064,
       "total_project_amount": 31000.32,
-      "paid": 0,
+      "paid": 0.0,
       "unpaid": 31000.32
     },
     {
@@ -96,10 +96,10 @@
       "times": 6,
       "car_volume": 44.928,
       "total_volume": 269.568,
-      "price": 138.0,
+      "price": "138",
       "car_amount": 6200.064,
       "total_project_amount": 37200.384,
-      "paid": 0,
+      "paid": 0.0,
       "unpaid": 37200.384
     },
     {
@@ -113,10 +113,10 @@
       "times": 7,
       "car_volume": 44.928,
       "total_volume": 314.496,
-      "price": 138.0,
+      "price": "138",
       "car_amount": 6200.064,
       "total_project_amount": 43400.448,
-      "paid": 0,
+      "paid": 0.0,
       "unpaid": 43400.448
     }
   ]
