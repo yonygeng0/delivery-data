@@ -11,11 +11,11 @@
       "times": 1,
       "car_volume": 41.472,
       "total_volume": 41.472,
-      "price": 0,
-      "car_amount": 0,
-      "total_project_amount": 0,
-      "paid": 0,
-      "unpaid": 0
+      "price": "",
+      "car_amount": 0.0,
+      "total_project_amount": 0.0,
+      "paid": 0.0,
+      "unpaid": 0.0
     },
     {
       "order": "Q202603080008",
@@ -28,10 +28,10 @@
       "times": 2,
       "car_volume": 24.192,
       "total_volume": 65.664,
-      "price": 220.0,
+      "price": "220",
       "car_amount": 5322.24,
       "total_project_amount": 5322.24,
-      "paid": 0,
+      "paid": 0.0,
       "unpaid": 5322.24
     },
     {
@@ -45,10 +45,10 @@
       "times": 3,
       "car_volume": 24.192,
       "total_volume": 89.856,
-      "price": 220.0,
+      "price": "220",
       "car_amount": 5322.24,
       "total_project_amount": 10644.48,
-      "paid": 0,
+      "paid": 0.0,
       "unpaid": 10644.48
     },
     {
@@ -62,10 +62,10 @@
       "times": 4,
       "car_volume": 24.192,
       "total_volume": 114.048,
-      "price": 220.0,
+      "price": "220",
       "car_amount": 5322.24,
       "total_project_amount": 15966.72,
-      "paid": 0,
+      "paid": 0.0,
       "unpaid": 15966.72
     },
     {
@@ -79,10 +79,10 @@
       "times": 5,
       "car_volume": 24.192,
       "total_volume": 138.24,
-      "price": 220.0,
+      "price": "220",
       "car_amount": 5322.24,
       "total_project_amount": 21288.96,
-      "paid": 0,
+      "paid": 0.0,
       "unpaid": 21288.96
     },
     {
@@ -96,10 +96,10 @@
       "times": 6,
       "car_volume": 41.472,
       "total_volume": 179.712,
-      "price": 220.0,
+      "price": "220",
       "car_amount": 9123.84,
       "total_project_amount": 30412.8,
-      "paid": 0,
+      "paid": 0.0,
       "unpaid": 30412.8
     },
     {
@@ -113,10 +113,10 @@
       "times": 7,
       "car_volume": 41.472,
       "total_volume": 221.184,
-      "price": 220.0,
+      "price": "220",
       "car_amount": 9123.84,
       "total_project_amount": 39536.64,
-      "paid": 0,
+      "paid": 0.0,
       "unpaid": 39536.64
     }
   ]
