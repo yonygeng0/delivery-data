@@ -11,10 +11,10 @@
       "times": 1,
       "car_volume": 27.648,
       "total_volume": 27.648,
-      "price": 220.0,
+      "price": "220",
       "car_amount": 6082.56,
       "total_project_amount": 6082.56,
-      "paid": 0,
+      "paid": 0.0,
       "unpaid": 6082.56
     },
     {
@@ -28,10 +28,10 @@
       "times": 2,
       "car_volume": 27.648,
       "total_volume": 55.296,
-      "price": 220.0,
+      "price": "220",
       "car_amount": 6082.56,
       "total_project_amount": 12165.12,
-      "paid": 0,
+      "paid": 0.0,
       "unpaid": 12165.12
     },
     {
@@ -45,10 +45,10 @@
       "times": 3,
       "car_volume": 22.464,
       "total_volume": 77.76,
-      "price": 220.0,
+      "price": "220",
       "car_amount": 4942.08,
       "total_project_amount": 17107.2,
-      "paid": 0,
+      "paid": 0.0,
       "unpaid": 17107.2
     },
     {
@@ -62,10 +62,10 @@
       "times": 4,
       "car_volume": 27.648,
       "total_volume": 105.408,
-      "price": 220.0,
+      "price": "220",
       "car_amount": 6082.56,
       "total_project_amount": 23189.76,
-      "paid": 0,
+      "paid": 0.0,
       "unpaid": 23189.76
     },
     {
@@ -79,10 +79,10 @@
       "times": 5,
       "car_volume": 27.648,
       "total_volume": 133.056,
-      "price": 220.0,
+      "price": "220",
       "car_amount": 6082.56,
       "total_project_amount": 29272.32,
-      "paid": 0,
+      "paid": 0.0,
       "unpaid": 29272.32
     },
     {
@@ -96,10 +96,10 @@
       "times": 6,
       "car_volume": 41.472,
       "total_volume": 174.528,
-      "price": 220.0,
+      "price": "220",
       "car_amount": 9123.84,
       "total_project_amount": 38396.16,
-      "paid": 0,
+      "paid": 0.0,
       "unpaid": 38396.16
     },
     {
@@ -113,10 +113,10 @@
       "times": 7,
       "car_volume": 27.648,
       "total_volume": 202.176,
-      "price": 220.0,
+      "price": "220",
       "car_amount": 6082.56,
       "total_project_amount": 44478.72,
-      "paid": 0,
+      "paid": 0.0,
       "unpaid": 44478.72
     },
     {
@@ -130,10 +130,10 @@
       "times": 8,
       "car_volume": 27.648,
       "total_volume": 229.824,
-      "price": 220.0,
+      "price": "220",
       "car_amount": 6082.56,
       "total_project_amount": 50561.28,
-      "paid": 0,
+      "paid": 0.0,
       "unpaid": 50561.28
     }
   ]
