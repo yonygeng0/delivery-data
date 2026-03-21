@@ -1,7 +1,7 @@
 {
   "orders": [
     {
-      "order": "B202603090001",
+      "order": "B202601260002",
       "project": "姜堰梧桐雅居",
       "contract": "JTJCXS-2025-034",
       "payment": "款到发货",
@@ -9,12 +9,29 @@
       "invoice_unit": "泰州市力盛机械制造有限公司",
       "invoice_unit2": "",
       "times": 1,
+      "car_volume": 14.238,
+      "total_volume": 14.238,
+      "price": "",
+      "car_amount": 0.0,
+      "total_project_amount": 0.0,
+      "paid": 0.0,
+      "unpaid": 0.0
+    },
+    {
+      "order": "B202603090001",
+      "project": "姜堰梧桐雅居",
+      "contract": "JTJCXS-2025-034",
+      "payment": "款到发货",
+      "has_agent": "否",
+      "invoice_unit": "泰州市力盛机械制造有限公司",
+      "invoice_unit2": "",
+      "times": 2,
       "car_volume": 22.498,
-      "total_volume": 22.498,
-      "price": 279.0,
+      "total_volume": 36.736,
+      "price": "279",
       "car_amount": 6276.8304,
       "total_project_amount": 6276.8304,
-      "paid": 0,
+      "paid": 0.0,
       "unpaid": 6276.8304
     }
   ]
