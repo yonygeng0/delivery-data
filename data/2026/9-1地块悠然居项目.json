@@ -11,11 +11,11 @@
       "times": 1,
       "car_volume": 24.192,
       "total_volume": 24.192,
-      "price": 0,
-      "car_amount": 0,
-      "total_project_amount": 0,
-      "paid": 0,
-      "unpaid": 0
+      "price": "",
+      "car_amount": 0.0,
+      "total_project_amount": 0.0,
+      "paid": 0.0,
+      "unpaid": 0.0
     },
     {
       "order": "Q202601010018",
@@ -28,11 +28,11 @@
       "times": 2,
       "car_volume": 24.192,
       "total_volume": 48.384,
-      "price": 0,
-      "car_amount": 0,
-      "total_project_amount": 0,
-      "paid": 0,
-      "unpaid": 0
+      "price": "",
+      "car_amount": 0.0,
+      "total_project_amount": 0.0,
+      "paid": 0.0,
+      "unpaid": 0.0
     },
     {
       "order": "Q202601020003",
@@ -45,11 +45,11 @@
       "times": 3,
       "car_volume": 24.192,
       "total_volume": 72.576,
-      "price": 0,
-      "car_amount": 0,
-      "total_project_amount": 0,
-      "paid": 0,
-      "unpaid": 0
+      "price": "",
+      "car_amount": 0.0,
+      "total_project_amount": 0.0,
+      "paid": 0.0,
+      "unpaid": 0.0
     },
     {
       "order": "Q202601040005",
@@ -62,11 +62,11 @@
       "times": 4,
       "car_volume": 24.192,
       "total_volume": 96.768,
-      "price": 0,
-      "car_amount": 0,
-      "total_project_amount": 0,
-      "paid": 0,
-      "unpaid": 0
+      "price": "",
+      "car_amount": 0.0,
+      "total_project_amount": 0.0,
+      "paid": 0.0,
+      "unpaid": 0.0
     },
     {
       "order": "Q202601040006",
@@ -79,11 +79,11 @@
       "times": 5,
       "car_volume": 24.192,
       "total_volume": 120.96,
-      "price": 0,
-      "car_amount": 0,
-      "total_project_amount": 0,
-      "paid": 0,
-      "unpaid": 0
+      "price": "",
+      "car_amount": 0.0,
+      "total_project_amount": 0.0,
+      "paid": 0.0,
+      "unpaid": 0.0
     },
     {
       "order": "Q202601040009",
@@ -96,11 +96,11 @@
       "times": 6,
       "car_volume": 24.192,
       "total_volume": 145.152,
-      "price": 0,
-      "car_amount": 0,
-      "total_project_amount": 0,
-      "paid": 0,
-      "unpaid": 0
+      "price": "",
+      "car_amount": 0.0,
+      "total_project_amount": 0.0,
+      "paid": 0.0,
+      "unpaid": 0.0
     },
     {
       "order": "Q202601060002",
@@ -113,11 +113,11 @@
       "times": 7,
       "car_volume": 24.192,
       "total_volume": 169.344,
-      "price": 0,
-      "car_amount": 0,
-      "total_project_amount": 0,
-      "paid": 0,
-      "unpaid": 0
+      "price": "",
+      "car_amount": 0.0,
+      "total_project_amount": 0.0,
+      "paid": 0.0,
+      "unpaid": 0.0
     },
     {
       "order": "Q202601060005",
@@ -130,11 +130,11 @@
       "times": 8,
       "car_volume": 24.192,
       "total_volume": 193.536,
-      "price": 0,
-      "car_amount": 0,
-      "total_project_amount": 0,
-      "paid": 0,
-      "unpaid": 0
+      "price": "",
+      "car_amount": 0.0,
+      "total_project_amount": 0.0,
+      "paid": 0.0,
+      "unpaid": 0.0
     },
     {
       "order": "Q202601080001",
@@ -147,11 +147,11 @@
       "times": 9,
       "car_volume": 24.192,
       "total_volume": 217.728,
-      "price": 0,
-      "car_amount": 0,
-      "total_project_amount": 0,
-      "paid": 0,
-      "unpaid": 0
+      "price": "",
+      "car_amount": 0.0,
+      "total_project_amount": 0.0,
+      "paid": 0.0,
+      "unpaid": 0.0
     },
     {
       "order": "Q202601080006",
@@ -164,11 +164,11 @@
       "times": 10,
       "car_volume": 24.192,
       "total_volume": 241.92,
-      "price": 0,
-      "car_amount": 0,
-      "total_project_amount": 0,
-      "paid": 0,
-      "unpaid": 0
+      "price": "",
+      "car_amount": 0.0,
+      "total_project_amount": 0.0,
+      "paid": 0.0,
+      "unpaid": 0.0
     },
     {
       "order": "Q202601090008",
@@ -181,11 +181,11 @@
       "times": 11,
       "car_volume": 24.192,
       "total_volume": 266.112,
-      "price": 0,
-      "car_amount": 0,
-      "total_project_amount": 0,
-      "paid": 0,
-      "unpaid": 0
+      "price": "",
+      "car_amount": 0.0,
+      "total_project_amount": 0.0,
+      "paid": 0.0,
+      "unpaid": 0.0
     },
     {
       "order": "Q202601100006",
@@ -198,11 +198,11 @@
       "times": 12,
       "car_volume": 24.192,
       "total_volume": 290.304,
-      "price": 0,
-      "car_amount": 0,
-      "total_project_amount": 0,
-      "paid": 0,
-      "unpaid": 0
+      "price": "",
+      "car_amount": 0.0,
+      "total_project_amount": 0.0,
+      "paid": 0.0,
+      "unpaid": 0.0
     },
     {
       "order": "Q202601110010",
@@ -215,11 +215,11 @@
       "times": 13,
       "car_volume": 24.192,
       "total_volume": 314.496,
-      "price": 0,
-      "car_amount": 0,
-      "total_project_amount": 0,
-      "paid": 0,
-      "unpaid": 0
+      "price": "",
+      "car_amount": 0.0,
+      "total_project_amount": 0.0,
+      "paid": 0.0,
+      "unpaid": 0.0
     },
     {
       "order": "Q202601130006",
@@ -232,11 +232,11 @@
       "times": 14,
       "car_volume": 24.192,
       "total_volume": 338.688,
-      "price": 0,
-      "car_amount": 0,
-      "total_project_amount": 0,
-      "paid": 0,
-      "unpaid": 0
+      "price": "",
+      "car_amount": 0.0,
+      "total_project_amount": 0.0,
+      "paid": 0.0,
+      "unpaid": 0.0
     },
     {
       "order": "Q202601140005",
@@ -249,11 +249,11 @@
       "times": 15,
       "car_volume": 24.192,
       "total_volume": 362.88,
-      "price": 0,
-      "car_amount": 0,
-      "total_project_amount": 0,
-      "paid": 0,
-      "unpaid": 0
+      "price": "",
+      "car_amount": 0.0,
+      "total_project_amount": 0.0,
+      "paid": 0.0,
+      "unpaid": 0.0
     },
     {
       "order": "Q202601160002",
@@ -266,11 +266,11 @@
       "times": 16,
       "car_volume": 24.192,
       "total_volume": 387.072,
-      "price": 0,
-      "car_amount": 0,
-      "total_project_amount": 0,
-      "paid": 0,
-      "unpaid": 0
+      "price": "",
+      "car_amount": 0.0,
+      "total_project_amount": 0.0,
+      "paid": 0.0,
+      "unpaid": 0.0
     },
     {
       "order": "Q202601160014",
@@ -283,11 +283,11 @@
       "times": 17,
       "car_volume": 24.192,
       "total_volume": 411.264,
-      "price": 0,
-      "car_amount": 0,
-      "total_project_amount": 0,
-      "paid": 0,
-      "unpaid": 0
+      "price": "",
+      "car_amount": 0.0,
+      "total_project_amount": 0.0,
+      "paid": 0.0,
+      "unpaid": 0.0
     },
     {
       "order": "Q202601170001",
@@ -300,11 +300,11 @@
       "times": 18,
       "car_volume": 24.192,
       "total_volume": 435.456,
-      "price": 0,
-      "car_amount": 0,
-      "total_project_amount": 0,
-      "paid": 0,
-      "unpaid": 0
+      "price": "",
+      "car_amount": 0.0,
+      "total_project_amount": 0.0,
+      "paid": 0.0,
+      "unpaid": 0.0
     },
     {
       "order": "Q202601170020",
@@ -317,11 +317,11 @@
       "times": 19,
       "car_volume": 24.192,
       "total_volume": 459.648,
-      "price": 0,
-      "car_amount": 0,
-      "total_project_amount": 0,
-      "paid": 0,
-      "unpaid": 0
+      "price": "",
+      "car_amount": 0.0,
+      "total_project_amount": 0.0,
+      "paid": 0.0,
+      "unpaid": 0.0
     },
     {
       "order": "Q202601190003",
@@ -334,11 +334,11 @@
       "times": 20,
       "car_volume": 24.192,
       "total_volume": 483.84,
-      "price": 0,
-      "car_amount": 0,
-      "total_project_amount": 0,
-      "paid": 0,
-      "unpaid": 0
+      "price": "",
+      "car_amount": 0.0,
+      "total_project_amount": 0.0,
+      "paid": 0.0,
+      "unpaid": 0.0
     },
     {
       "order": "Q202601190004",
@@ -351,11 +351,11 @@
       "times": 21,
       "car_volume": 24.192,
       "total_volume": 508.032,
-      "price": 0,
-      "car_amount": 0,
-      "total_project_amount": 0,
-      "paid": 0,
-      "unpaid": 0
+      "price": "",
+      "car_amount": 0.0,
+      "total_project_amount": 0.0,
+      "paid": 0.0,
+      "unpaid": 0.0
     },
     {
       "order": "Q202601190005",
@@ -368,11 +368,11 @@
       "times": 22,
       "car_volume": 24.192,
       "total_volume": 532.224,
-      "price": 0,
-      "car_amount": 0,
-      "total_project_amount": 0,
-      "paid": 0,
-      "unpaid": 0
+      "price": "",
+      "car_amount": 0.0,
+      "total_project_amount": 0.0,
+      "paid": 0.0,
+      "unpaid": 0.0
     },
     {
       "order": "Q202601240005",
@@ -385,11 +385,11 @@
       "times": 23,
       "car_volume": 24.192,
       "total_volume": 556.416,
-      "price": 0,
-      "car_amount": 0,
-      "total_project_amount": 0,
-      "paid": 0,
-      "unpaid": 0
+      "price": "",
+      "car_amount": 0.0,
+      "total_project_amount": 0.0,
+      "paid": 0.0,
+      "unpaid": 0.0
     },
     {
       "order": "Q202601240006",
@@ -402,11 +402,11 @@
       "times": 24,
       "car_volume": 24.192,
       "total_volume": 580.608,
-      "price": 0,
-      "car_amount": 0,
-      "total_project_amount": 0,
-      "paid": 0,
-      "unpaid": 0
+      "price": "",
+      "car_amount": 0.0,
+      "total_project_amount": 0.0,
+      "paid": 0.0,
+      "unpaid": 0.0
     },
     {
       "order": "Q202601270012",
@@ -419,11 +419,11 @@
       "times": 25,
       "car_volume": 24.192,
       "total_volume": 604.8,
-      "price": 0,
-      "car_amount": 0,
-      "total_project_amount": 0,
-      "paid": 0,
-      "unpaid": 0
+      "price": "",
+      "car_amount": 0.0,
+      "total_project_amount": 0.0,
+      "paid": 0.0,
+      "unpaid": 0.0
     },
     {
       "order": "Q202601280004",
@@ -436,11 +436,11 @@
       "times": 26,
       "car_volume": 24.192,
       "total_volume": 628.992,
-      "price": 0,
-      "car_amount": 0,
-      "total_project_amount": 0,
-      "paid": 0,
-      "unpaid": 0
+      "price": "",
+      "car_amount": 0.0,
+      "total_project_amount": 0.0,
+      "paid": 0.0,
+      "unpaid": 0.0
     },
     {
       "order": "Q202601290004",
@@ -453,11 +453,11 @@
       "times": 27,
       "car_volume": 24.192,
       "total_volume": 653.184,
-      "price": 0,
-      "car_amount": 0,
-      "total_project_amount": 0,
-      "paid": 0,
-      "unpaid": 0
+      "price": "",
+      "car_amount": 0.0,
+      "total_project_amount": 0.0,
+      "paid": 0.0,
+      "unpaid": 0.0
     },
     {
       "order": "Q202601290011",
@@ -470,11 +470,11 @@
       "times": 28,
       "car_volume": 24.192,
       "total_volume": 677.376,
-      "price": 0,
-      "car_amount": 0,
-      "total_project_amount": 0,
-      "paid": 0,
-      "unpaid": 0
+      "price": "",
+      "car_amount": 0.0,
+      "total_project_amount": 0.0,
+      "paid": 0.0,
+      "unpaid": 0.0
     },
     {
       "order": "Q202602020001",
@@ -487,11 +487,11 @@
       "times": 29,
       "car_volume": 24.192,
       "total_volume": 701.568,
-      "price": 0,
-      "car_amount": 0,
-      "total_project_amount": 0,
-      "paid": 0,
-      "unpaid": 0
+      "price": "",
+      "car_amount": 0.0,
+      "total_project_amount": 0.0,
+      "paid": 0.0,
+      "unpaid": 0.0
     },
     {
       "order": "Q202602020010",
@@ -504,11 +504,11 @@
       "times": 30,
       "car_volume": 24.192,
       "total_volume": 725.76,
-      "price": 0,
-      "car_amount": 0,
-      "total_project_amount": 0,
-      "paid": 0,
-      "unpaid": 0
+      "price": "",
+      "car_amount": 0.0,
+      "total_project_amount": 0.0,
+      "paid": 0.0,
+      "unpaid": 0.0
     },
     {
       "order": "Q202602040001",
@@ -521,11 +521,11 @@
       "times": 31,
       "car_volume": 24.192,
       "total_volume": 749.952,
-      "price": 0,
-      "car_amount": 0,
-      "total_project_amount": 0,
-      "paid": 0,
-      "unpaid": 0
+      "price": "",
+      "car_amount": 0.0,
+      "total_project_amount": 0.0,
+      "paid": 0.0,
+      "unpaid": 0.0
     },
     {
       "order": "Q202602040007",
@@ -538,11 +538,11 @@
       "times": 32,
       "car_volume": 24.192,
       "total_volume": 774.144,
-      "price": 0,
-      "car_amount": 0,
-      "total_project_amount": 0,
-      "paid": 0,
-      "unpaid": 0
+      "price": "",
+      "car_amount": 0.0,
+      "total_project_amount": 0.0,
+      "paid": 0.0,
+      "unpaid": 0.0
     },
     {
       "order": "Q202602050009",
@@ -555,11 +555,11 @@
       "times": 33,
       "car_volume": 24.192,
       "total_volume": 798.336,
-      "price": 0,
-      "car_amount": 0,
-      "total_project_amount": 0,
-      "paid": 0,
-      "unpaid": 0
+      "price": "",
+      "car_amount": 0.0,
+      "total_project_amount": 0.0,
+      "paid": 0.0,
+      "unpaid": 0.0
     },
     {
       "order": "Q202602050011",
@@ -572,11 +572,11 @@
       "times": 34,
       "car_volume": 24.192,
       "total_volume": 822.528,
-      "price": 0,
-      "car_amount": 0,
-      "total_project_amount": 0,
-      "paid": 0,
-      "unpaid": 0
+      "price": "",
+      "car_amount": 0.0,
+      "total_project_amount": 0.0,
+      "paid": 0.0,
+      "unpaid": 0.0
     },
     {
       "order": "Q202602280001",
@@ -589,11 +589,11 @@
       "times": 35,
       "car_volume": 24.192,
       "total_volume": 846.72,
-      "price": 0,
-      "car_amount": 0,
-      "total_project_amount": 0,
-      "paid": 0,
-      "unpaid": 0
+      "price": "",
+      "car_amount": 0.0,
+      "total_project_amount": 0.0,
+      "paid": 0.0,
+      "unpaid": 0.0
     },
     {
       "order": "Q202603030002",
@@ -606,10 +606,10 @@
       "times": 36,
       "car_volume": 24.192,
       "total_volume": 870.912,
-      "price": 160.0,
+      "price": "160",
       "car_amount": 3870.72,
       "total_project_amount": 3870.72,
-      "paid": 0,
+      "paid": 0.0,
       "unpaid": 3870.72
     },
     {
@@ -623,10 +623,10 @@
       "times": 37,
       "car_volume": 24.192,
       "total_volume": 895.104,
-      "price": 160.0,
+      "price": "160",
       "car_amount": 3870.72,
       "total_project_amount": 7741.44,
-      "paid": 0,
+      "paid": 0.0,
       "unpaid": 7741.44
     },
     {
@@ -640,10 +640,10 @@
       "times": 38,
       "car_volume": 24.192,
       "total_volume": 919.296,
-      "price": 160.0,
+      "price": "160",
       "car_amount": 3870.72,
       "total_project_amount": 11612.16,
-      "paid": 0,
+      "paid": 0.0,
       "unpaid": 11612.16
     },
     {
@@ -657,10 +657,10 @@
       "times": 39,
       "car_volume": 24.192,
       "total_volume": 943.488,
-      "price": 160.0,
+      "price": "160",
       "car_amount": 3870.72,
       "total_project_amount": 15482.88,
-      "paid": 0,
+      "paid": 0.0,
       "unpaid": 15482.88
     },
     {
@@ -674,10 +674,10 @@
       "times": 40,
       "car_volume": 24.192,
       "total_volume": 967.68,
-      "price": 160.0,
+      "price": "160",
       "car_amount": 3870.72,
       "total_project_amount": 19353.6,
-      "paid": 0,
+      "paid": 0.0,
       "unpaid": 19353.6
     },
     {
@@ -691,10 +691,10 @@
       "times": 41,
       "car_volume": 24.192,
       "total_volume": 991.872,
-      "price": 160.0,
+      "price": "160",
       "car_amount": 3870.72,
       "total_project_amount": 23224.32,
-      "paid": 0,
+      "paid": 0.0,
       "unpaid": 23224.32
     },
     {
@@ -708,10 +708,10 @@
       "times": 42,
       "car_volume": 24.192,
       "total_volume": 1016.064,
-      "price": 160.0,
+      "price": "160",
       "car_amount": 3870.72,
       "total_project_amount": 27095.04,
-      "paid": 0,
+      "paid": 0.0,
       "unpaid": 27095.04
     },
     {
@@ -725,10 +725,10 @@
       "times": 43,
       "car_volume": 24.192,
       "total_volume": 1040.256,
-      "price": 160.0,
+      "price": "160",
       "car_amount": 3870.72,
       "total_project_amount": 30965.76,
-      "paid": 0,
+      "paid": 0.0,
       "unpaid": 30965.76
     },
     {
@@ -742,10 +742,10 @@
       "times": 44,
       "car_volume": 24.192,
       "total_volume": 1064.448,
-      "price": 160.0,
+      "price": "160",
       "car_amount": 3870.72,
       "total_project_amount": 34836.48,
-      "paid": 0,
+      "paid": 0.0,
       "unpaid": 34836.48
     },
     {
@@ -759,10 +759,10 @@
       "times": 45,
       "car_volume": 24.192,
       "total_volume": 1088.64,
-      "price": 160.0,
+      "price": "160",
       "car_amount": 3870.72,
       "total_project_amount": 38707.2,
-      "paid": 0,
+      "paid": 0.0,
       "unpaid": 38707.2
     },
     {
@@ -776,10 +776,10 @@
       "times": 46,
       "car_volume": 24.192,
       "total_volume": 1112.832,
-      "price": 160.0,
+      "price": "160",
       "car_amount": 3870.72,
       "total_project_amount": 42577.92,
-      "paid": 0,
+      "paid": 0.0,
       "unpaid": 42577.92
     },
     {
@@ -793,10 +793,10 @@
       "times": 47,
       "car_volume": 24.192,
       "total_volume": 1137.024,
-      "price": 160.0,
+      "price": "160",
       "car_amount": 3870.72,
       "total_project_amount": 46448.64,
-      "paid": 0,
+      "paid": 0.0,
       "unpaid": 46448.64
     },
     {
@@ -810,10 +810,10 @@
       "times": 48,
       "car_volume": 24.192,
       "total_volume": 1161.216,
-      "price": 160.0,
+      "price": "160",
       "car_amount": 3870.72,
       "total_project_amount": 50319.36,
-      "paid": 0,
+      "paid": 0.0,
       "unpaid": 50319.36
     },
     {
@@ -827,10 +827,10 @@
       "times": 49,
       "car_volume": 24.192,
       "total_volume": 1185.408,
-      "price": 160.0,
+      "price": "160",
       "car_amount": 3870.72,
       "total_project_amount": 54190.08,
-      "paid": 0,
+      "paid": 0.0,
       "unpaid": 54190.08
     },
     {
@@ -844,10 +844,10 @@
       "times": 50,
       "car_volume": 24.192,
       "total_volume": 1209.6,
-      "price": 160.0,
+      "price": "160",
       "car_amount": 3870.72,
       "total_project_amount": 58060.8,
-      "paid": 0,
+      "paid": 0.0,
       "unpaid": 58060.8
     },
     {
@@ -861,10 +861,10 @@
       "times": 51,
       "car_volume": 24.192,
       "total_volume": 1233.792,
-      "price": 160.0,
+      "price": "160",
       "car_amount": 3870.72,
       "total_project_amount": 61931.52,
-      "paid": 0,
+      "paid": 0.0,
       "unpaid": 61931.52
     }
   ]
