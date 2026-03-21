@@ -11,11 +11,11 @@
       "times": 1,
       "car_volume": 41.472,
       "total_volume": 41.472,
-      "price": 0,
-      "car_amount": 0,
-      "total_project_amount": 0,
-      "paid": 0,
-      "unpaid": 0
+      "price": "",
+      "car_amount": 0.0,
+      "total_project_amount": 0.0,
+      "paid": 0.0,
+      "unpaid": 0.0
     },
     {
       "order": "Q202602250001",
@@ -28,11 +28,11 @@
       "times": 2,
       "car_volume": 41.472,
       "total_volume": 82.944,
-      "price": 0,
-      "car_amount": 0,
-      "total_project_amount": 0,
-      "paid": 0,
-      "unpaid": 0
+      "price": "",
+      "car_amount": 0.0,
+      "total_project_amount": 0.0,
+      "paid": 0.0,
+      "unpaid": 0.0
     },
     {
       "order": "Q202603060015",
@@ -43,29 +43,12 @@
       "invoice_unit": "",
       "invoice_unit2": "",
       "times": 3,
-      "car_volume": 39.744,
-      "total_volume": 122.688,
-      "price": 220.0,
-      "car_amount": 8743.68,
-      "total_project_amount": 8743.68,
-      "paid": 0,
-      "unpaid": 8743.68
-    },
-    {
-      "order": "Q202603060015",
-      "project": "泰州实验中学寺巷项目",
-      "contract": "",
-      "payment": "",
-      "has_agent": "否",
-      "invoice_unit": "",
-      "invoice_unit2": "",
-      "times": 4,
-      "car_volume": 1.728,
+      "car_volume": 41.472,
       "total_volume": 124.416,
-      "price": 210.0,
-      "car_amount": 362.88,
+      "price": "210/220",
+      "car_amount": 9106.56,
       "total_project_amount": 9106.56,
-      "paid": 0,
+      "paid": 0.0,
       "unpaid": 9106.56
     },
     {
@@ -76,13 +59,13 @@
       "has_agent": "否",
       "invoice_unit": "",
       "invoice_unit2": "",
-      "times": 5,
+      "times": 4,
       "car_volume": 41.472,
       "total_volume": 165.888,
-      "price": 220.0,
+      "price": "220",
       "car_amount": 9123.84,
       "total_project_amount": 18230.4,
-      "paid": 0,
+      "paid": 0.0,
       "unpaid": 18230.4
     }
   ]
