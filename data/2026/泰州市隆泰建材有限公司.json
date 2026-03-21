@@ -11,11 +11,11 @@
       "times": 1,
       "car_volume": 6.912,
       "total_volume": 6.912,
-      "price": 0,
-      "car_amount": 0,
-      "total_project_amount": 0,
-      "paid": 0,
-      "unpaid": 0
+      "price": "",
+      "car_amount": 0.0,
+      "total_project_amount": 0.0,
+      "paid": 0.0,
+      "unpaid": 0.0
     },
     {
       "order": "Q202603050015",
@@ -28,10 +28,10 @@
       "times": 2,
       "car_volume": 2.268,
       "total_volume": 9.18,
-      "price": 170.0,
+      "price": "170",
       "car_amount": 385.56,
       "total_project_amount": 385.56,
-      "paid": 0,
+      "paid": 0.0,
       "unpaid": 385.56
     },
     {
@@ -45,11 +45,28 @@
       "times": 3,
       "car_volume": 2.052,
       "total_volume": 11.232,
-      "price": 170.0,
+      "price": "170",
       "car_amount": 348.84,
       "total_project_amount": 734.4,
-      "paid": 0,
+      "paid": 0.0,
       "unpaid": 734.4
+    },
+    {
+      "order": "Q202603200005",
+      "project": "泰州市隆泰建材有限公司",
+      "contract": "",
+      "payment": "",
+      "has_agent": "否",
+      "invoice_unit": "",
+      "invoice_unit2": "",
+      "times": 4,
+      "car_volume": 24.192,
+      "total_volume": 35.424,
+      "price": "170",
+      "car_amount": 4112.64,
+      "total_project_amount": 4847.04,
+      "paid": 0.0,
+      "unpaid": 4847.04
     }
   ]
 }
