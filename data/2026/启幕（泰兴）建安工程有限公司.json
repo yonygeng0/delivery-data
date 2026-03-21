@@ -11,11 +11,11 @@
       "times": 1,
       "car_volume": 24.192,
       "total_volume": 24.192,
-      "price": 0,
-      "car_amount": 0,
-      "total_project_amount": 0,
-      "paid": 0,
-      "unpaid": 0
+      "price": "",
+      "car_amount": 0.0,
+      "total_project_amount": 0.0,
+      "paid": 0.0,
+      "unpaid": 0.0
     },
     {
       "order": "Q202603070018",
@@ -28,10 +28,10 @@
       "times": 2,
       "car_volume": 24.192,
       "total_volume": 48.384,
-      "price": 220.0,
+      "price": "220",
       "car_amount": 5322.24,
       "total_project_amount": 5322.24,
-      "paid": 0,
+      "paid": 0.0,
       "unpaid": 5322.24
     }
   ]
