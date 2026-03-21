@@ -11,11 +11,11 @@
       "times": 1,
       "car_volume": 15.552,
       "total_volume": 15.552,
-      "price": 0,
-      "car_amount": 0,
-      "total_project_amount": 0,
-      "paid": 0,
-      "unpaid": 0
+      "price": "",
+      "car_amount": 0.0,
+      "total_project_amount": 0.0,
+      "paid": 0.0,
+      "unpaid": 0.0
     }
   ]
 }
