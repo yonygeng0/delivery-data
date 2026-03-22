@@ -1,0 +1,21 @@
+{
+  "orders": [
+    {
+      "order": "Q202601080003",
+      "project": "金茂和府",
+      "contract": "JTJCXS-2025-091",
+      "payment": "款到发货",
+      "has_agent": "否",
+      "invoice_unit": "靖江大华置业有限公司",
+      "invoice_unit2": "靖江南之鑫建设有限公司",
+      "times": 6,
+      "car_volume": 41.472,
+      "total_volume": 248.832,
+      "price": "",
+      "car_amount": 0.0,
+      "total_project_amount": 0.0,
+      "paid": 0.0,
+      "unpaid": 0.0
+    }
+  ]
+}
