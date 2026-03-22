@@ -1,0 +1,21 @@
+{
+  "orders": [
+    {
+      "order": "B202603200001",
+      "project": "9-1地块悠然居项目板材",
+      "contract": "",
+      "payment": "",
+      "has_agent": "否",
+      "invoice_unit": "",
+      "invoice_unit2": "",
+      "times": 7,
+      "car_volume": 41.326,
+      "total_volume": 190.201,
+      "price": "290",
+      "car_amount": 11984.424,
+      "total_project_amount": 47027.3568,
+      "paid": 0.0,
+      "unpaid": 47027.3568
+    }
+  ]
+}
