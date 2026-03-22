@@ -1,0 +1,21 @@
+{
+  "orders": [
+    {
+      "order": "Q202601120005",
+      "project": "泰州港高港港区杨湾作业区一期工程改造项目",
+      "contract": "JTJCXS-2025-046",
+      "payment": "第三个月结清前两个月全部货款，以此类推，每月15号完成对\n账，剩余货款供货结束二个月内结清",
+      "has_agent": "否",
+      "invoice_unit": "泰州汇昊商贸有限公司",
+      "invoice_unit2": "",
+      "times": 12,
+      "car_volume": 41.472,
+      "total_volume": 480.384,
+      "price": "",
+      "car_amount": 0.0,
+      "total_project_amount": 0.0,
+      "paid": 0.0,
+      "unpaid": 0.0
+    }
+  ]
+}
