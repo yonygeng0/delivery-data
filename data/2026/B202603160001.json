@@ -1,0 +1,21 @@
+{
+  "orders": [
+    {
+      "order": "B202603160001",
+      "project": "虹桥镇长虹路东侧、虹盛路南侧定向回购限价房项目（板材）二标段",
+      "contract": "",
+      "payment": "",
+      "has_agent": "否",
+      "invoice_unit": "",
+      "invoice_unit2": "",
+      "times": 42,
+      "car_volume": 41.99,
+      "total_volume": 1723.926,
+      "price": "279/295",
+      "car_amount": 11879.136,
+      "total_project_amount": 165221.2296,
+      "paid": 0.0,
+      "unpaid": 165221.2296
+    }
+  ]
+}
