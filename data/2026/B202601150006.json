@@ -1,0 +1,21 @@
+{
+  "orders": [
+    {
+      "order": "B202601150006",
+      "project": "零售",
+      "contract": "",
+      "payment": "",
+      "has_agent": "否",
+      "invoice_unit": "江苏鼎豪建设工程有限公司",
+      "invoice_unit2": "江苏维洁环境科技有限公司",
+      "times": 1,
+      "car_volume": 0.132,
+      "total_volume": 0.132,
+      "price": "",
+      "car_amount": 0.0,
+      "total_project_amount": 0.0,
+      "paid": 3645.0,
+      "unpaid": -3645.0
+    }
+  ]
+}
