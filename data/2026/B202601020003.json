@@ -1,0 +1,21 @@
+{
+  "orders": [
+    {
+      "order": "B202601020003",
+      "project": "GZ340地块房地产开发项目板材",
+      "contract": "",
+      "payment": "",
+      "has_agent": "否",
+      "invoice_unit": "江苏省华建建设股份有限公司蜀冈—瘦西湖风景名胜区分公司",
+      "invoice_unit2": "",
+      "times": 1,
+      "car_volume": 24.088,
+      "total_volume": 24.088,
+      "price": "",
+      "car_amount": 0.0,
+      "total_project_amount": 0.0,
+      "paid": 0.0,
+      "unpaid": 0.0
+    }
+  ]
+}
