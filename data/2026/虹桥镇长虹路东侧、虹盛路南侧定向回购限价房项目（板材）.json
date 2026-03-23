@@ -1,0 +1,72 @@
+{
+  "orders": [
+    {
+      "order": "B202603140002",
+      "project": "虹桥镇长虹路东侧、虹盛路南侧定向回购限价房项目（板材）",
+      "contract": "",
+      "payment": "",
+      "has_agent": "否",
+      "invoice_unit": "",
+      "invoice_unit2": "",
+      "times": 1,
+      "car_volume": 41.094,
+      "total_volume": 41.094,
+      "price": "279/295",
+      "car_amount": 11798.5572,
+      "total_project_amount": 11798.5572,
+      "paid": 0.0,
+      "unpaid": 11798.5572
+    },
+    {
+      "order": "B202603150001",
+      "project": "虹桥镇长虹路东侧、虹盛路南侧定向回购限价房项目（板材）",
+      "contract": "",
+      "payment": "",
+      "has_agent": "否",
+      "invoice_unit": "",
+      "invoice_unit2": "",
+      "times": 2,
+      "car_volume": 42.048,
+      "total_volume": 83.142,
+      "price": "279/295",
+      "car_amount": 11895.2064,
+      "total_project_amount": 23693.7636,
+      "paid": 0.0,
+      "unpaid": 23693.7636
+    },
+    {
+      "order": "B202603150002",
+      "project": "虹桥镇长虹路东侧、虹盛路南侧定向回购限价房项目（板材）",
+      "contract": "",
+      "payment": "",
+      "has_agent": "否",
+      "invoice_unit": "",
+      "invoice_unit2": "",
+      "times": 3,
+      "car_volume": 42.61,
+      "total_volume": 125.752,
+      "price": "279/295",
+      "car_amount": 12011.8032,
+      "total_project_amount": 35705.5668,
+      "paid": 0.0,
+      "unpaid": 35705.5668
+    },
+    {
+      "order": "B202603190002",
+      "project": "虹桥镇长虹路东侧、虹盛路南侧定向回购限价房项目（板材）",
+      "contract": "",
+      "payment": "",
+      "has_agent": "否",
+      "invoice_unit": "",
+      "invoice_unit2": "",
+      "times": 4,
+      "car_volume": 42.754,
+      "total_volume": 168.506,
+      "price": "279/295",
+      "car_amount": 12092.0688,
+      "total_project_amount": 47797.6356,
+      "paid": 0.0,
+      "unpaid": 47797.6356
+    }
+  ]
+}
