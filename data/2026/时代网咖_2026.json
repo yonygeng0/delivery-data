@@ -11,7 +11,7 @@
       "times": 1,
       "car_volume": 13.824,
       "total_volume": 13.824,
-      "price": "",
+      "price": "nan",
       "car_amount": 0.0,
       "total_project_amount": 0.0,
       "paid": 0.0,
