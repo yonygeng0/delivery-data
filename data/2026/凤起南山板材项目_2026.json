@@ -1,0 +1,21 @@
+{
+  "orders": [
+    {
+      "order": "B202604200003",
+      "project": "凤起南山板材项目",
+      "contract": "",
+      "payment": "",
+      "has_agent": "否",
+      "invoice_unit": "江苏永达新型建筑材料有限公司",
+      "invoice_unit2": "",
+      "times": 1,
+      "car_volume": 4.033,
+      "total_volume": 4.033,
+      "price": "270",
+      "car_amount": 1088.802,
+      "total_project_amount": 1088.802,
+      "paid": 0.0,
+      "unpaid": 1088.802
+    }
+  ]
+}
