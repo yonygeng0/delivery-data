@@ -1,0 +1,21 @@
+{
+  "orders": [
+    {
+      "order": "Q202606110006",
+      "project": "雷达及配套设备制造项目-车间-扩建、车间二、车间三、门卫",
+      "contract": "",
+      "payment": "",
+      "has_agent": "否",
+      "invoice_unit": "",
+      "invoice_unit2": "",
+      "times": 1,
+      "car_volume": 5.184,
+      "total_volume": 5.184,
+      "price": "220",
+      "car_amount": 1140.48,
+      "total_project_amount": 1140.48,
+      "paid": 0.0,
+      "unpaid": 1140.48
+    }
+  ]
+}
