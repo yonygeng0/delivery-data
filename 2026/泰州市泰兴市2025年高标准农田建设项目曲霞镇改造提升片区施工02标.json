@@ -1,0 +1,21 @@
+{
+  "orders": [
+    {
+      "order": "Q202601150014",
+      "project": "泰州市泰兴市2025年高标准农田建设项目曲霞镇改造提升片区施工02标",
+      "contract": "",
+      "payment": "",
+      "has_agent": "否",
+      "invoice_unit": "盐城市丰盈水利工程有限责任公司",
+      "invoice_unit2": "",
+      "times": 1,
+      "car_volume": 27.648,
+      "total_volume": 27.648,
+      "price": "",
+      "car_amount": 0.0,
+      "total_project_amount": 0.0,
+      "paid": 0.0,
+      "unpaid": 0.0
+    }
+  ]
+}
