@@ -1,0 +1,21 @@
+{
+  "orders": [
+    {
+      "order": "B202606080001",
+      "project": "高铁南站项目（板材）",
+      "contract": "",
+      "payment": "",
+      "has_agent": "否",
+      "invoice_unit": "",
+      "invoice_unit2": "",
+      "times": 1,
+      "car_volume": 0.875,
+      "total_volume": 0.875,
+      "price": "300",
+      "car_amount": 262.44,
+      "total_project_amount": 262.44,
+      "paid": 0.0,
+      "unpaid": 262.44
+    }
+  ]
+}
